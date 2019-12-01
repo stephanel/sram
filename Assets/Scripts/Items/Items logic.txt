@@ -1,0 +1,17 @@
+:: SpaceCapsule
+	type = <type>
+    groups  = <group>
+    drops
+    	1-1000 (food) 85%
+    	1-1000 (water) 85%
+    	1-1000 (oxygen) 75%
+    	1-1000 (energy) 75%
+        (ore) of
+        	1-100 (iron) 75%
+        	1-100 (other...) 50% 
+        (gas) of
+        	1-100 (helium)
+        	1-100 (other...)
+        1-3 (humans) 10%
+        (mecanism) ??%
+        (robots) ??%
